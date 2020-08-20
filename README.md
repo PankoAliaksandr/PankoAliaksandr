@@ -21,9 +21,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/PankoAliaksandr"><img alt="LinkedIn" src="https://img.shields.io/badge/Aliaksandr-Panko-%230077B5.svg?&style=for-the-badge&logo=linkedin"></a>
-  
-                                                  "https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin
 </p>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="vertical" data-theme="dark" data-vanity="aliaksandr-panko"><a class="LI-simple-link" href='https://ch.linkedin.com/in/aliaksandr-panko?trk=profile-badge'>Aliaksandr Panko</a></div>
+
