@@ -22,9 +22,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="vertical" data-theme="dark" data-vanity="aliaksandr-panko"><a class="LI-simple-link" href='https://ch.linkedin.com/in/aliaksandr-panko?trk=profile-badge'>Aliaksandr Panko</a></div>
-
+<a href="https://github.com/PankoAliaksandr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
