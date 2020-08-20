@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Developing my R, Finance, Research, GitHub and Interview skills
+- 🎓 &nbsp; Preparing for CFA level 1
+- 💼 &nbsp; Working as a Quantitative Analyst in Suva.
+- 🌱 &nbsp; Learning more about different techniques of Self-Development
+- ✍️ &nbsp; Writing a book to transfer my knowledge (later) to my children and, hopefully, to other people
 
 <h3>🛠 Tech Stack</h3>
 
