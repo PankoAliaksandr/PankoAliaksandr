@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Developing my R, Finance, Research, GitHub and Interview skills
+- 🤔 &nbsp; Developing my Modeling, R, Finance, Research, GitHub and Interview skills
 - 🎓 &nbsp; Preparing for CFA level 1
 - 💼 &nbsp; Working as a Quantitative Analyst in Suva.
 - 🌱 &nbsp; Learning more about different techniques of Self-Development
