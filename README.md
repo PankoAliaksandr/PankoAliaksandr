@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Developing my Modeling, R, Finance, Research, GitHub skills
+- 🤔 &nbsp; Developing my Quantitative Finance skills; programming in R and Python; Research
 - 🎓 &nbsp; Preparing for CFA level 1
 - 💼 &nbsp; Working as a Quantitative Analyst in Suva.
-- 🌱 &nbsp; Learning more about different techniques of Self-Development
-- ✍️ &nbsp; Writing a book to transfer my knowledge (later) to my children and, hopefully, to other people
+- 🌱 &nbsp; Learning more about different sides of Financial and Data Science world (professionally)
+- ✍️ &nbsp; Prepare a quantitative developer "tools and knowledge" kit
 
 <h3>🛠 Tech Stack</h3>
 
